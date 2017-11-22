@@ -1,2 +1,0 @@
-# jfexart.com
-Personal website
