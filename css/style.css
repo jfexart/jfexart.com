@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Sen');
 
 body {
-    background-color: #20272F;
+    background-color: #212133;
     padding: 32px 16px 16px 16px;
     font-size: 1em;
     font-family: "Sen", sans-serif;
-    color: #F0F7FF;
+    color: #E5FFF6;
     font-weight: 400;
     display: flex;
     flex-direction: column;
@@ -15,12 +15,12 @@ body {
 }
 
 a {
-    color: #FF66E0;
+    color: #F2E291;
     text-decoration: underline
 }
 
 h2 {
-    color: #66FFC4;
+    color: #5BA693;
 }
 
 section {
@@ -35,7 +35,7 @@ section {
     padding-top: 0;
     padding-bottom: 0;
     text-align: center;
-    color: #66B5FF;
+    color: #509AB3;
     font-weight: 700;
     font-size: 3em;
 }
@@ -48,7 +48,7 @@ section {
 
 .social .fa {
     font-size: 2em;
-    color: #66FFC4;
+    color: #5BA693;
     padding: 0 16px 0 16px;
 }
 
@@ -81,11 +81,7 @@ footer {
     text-decoration: none;
     vertical-align: baseline;
     font-style: normal;
-    color: #678DB8;
+    color: #7DB3B3;
     font-weight: 400;
     font-size: 0.75em;
-}
-
-footer a {
-    color: #F0F7FF;
 }
